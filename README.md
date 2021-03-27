@@ -1,3 +1,3 @@
-# SpringReact-stage3
+# stage3
 spring React Handson
 spring rest truyum case study
